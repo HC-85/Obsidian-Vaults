@@ -1,0 +1,1 @@
+(forward and backward pass rigorously in terms of tensor operations)

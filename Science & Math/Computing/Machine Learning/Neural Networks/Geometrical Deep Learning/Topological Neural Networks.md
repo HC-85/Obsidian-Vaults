@@ -1,0 +1,1 @@
+_Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges_: https://arxiv.org/pdf/2104.13478.pdf

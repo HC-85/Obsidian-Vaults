@@ -1,0 +1,1 @@
+Espace [[aménagé]] pour la culture des plantes potagères, qui sont celles qu l'on cultive pour leurs parties comestibles.

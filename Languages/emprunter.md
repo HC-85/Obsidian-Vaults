@@ -1,0 +1,1 @@
+Être marqué ou caractérisé par quelque chose de manière significative. 

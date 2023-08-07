@@ -1,0 +1,1 @@
+Expression utilisé pour exprimer une situation malchanceuse ou désagréable.

@@ -3,8 +3,6 @@ Base class for [[tf.keras.layers.Layer|layers]] and therefore [[tf.keras.Model|m
 For example, let's create a dense layer:
 ```python
 class Dense(tf.Module):
-	class Dense(tf.Module):
-
   def __init__(self, in_features, out_features, name = None):
     super().__init__(name = name) # uses tf.Module 's name attribute
     self.w = tf.Variable(tf.random.normal([in_features, out_features]))
