@@ -1,0 +1,3 @@
+#Pending 
+###### Tags
+#Optimization #CalculusOfVariations 

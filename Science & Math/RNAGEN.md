@@ -17,4 +17,7 @@ $$\begin{align}
 $$
 - WGANs don't have logs, and thus don't suffer from exploding and vanishing gradients.
 - Discriminator limited to $1$-Lipschitz by weight clipping/gradient penalty.
-- 
+
+
+###### Tags
+#GenerativeAdversarialNetworks #ProbabilityTheory  #Optimization  #MachineLearning

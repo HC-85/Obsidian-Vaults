@@ -50,3 +50,6 @@ Can somehow be calculated by measuring the clustering of galaxies.
 Big bang is conformal, that is, only preserves angles, not sizes. Thus light would not even be aware of a singularity.
 
 The simplicity of the large-scale geometry of the universe can be explained thermodynamically.
+
+###### Tags
+#Cosmology #QuantumMechanics #ParticlePhysics #ConformalCosmology #Thermodynamics

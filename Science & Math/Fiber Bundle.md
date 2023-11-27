@@ -11,3 +11,6 @@ Let $B$ be connected and that for every $x\in B$, there is a neighborhood $U$ wi
 Here, $\text{proj}_1$ is the natural projection.
 The set of all $\{(U_i, \varphi_i)\}$ is called a local trivialization of the bundle.
 #DontGetIt 
+
+###### Tags
+#Topology #AlgebraicTopology #DifferentialGeometry #Analysis

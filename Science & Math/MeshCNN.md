@@ -74,3 +74,6 @@ Unpooling itself thus have no learnable parameters, but its combination with the
 Each unpooling layer is paired with a pooling layer to restore the topology.
 A graph with the adjacencies of the edges before pooling is kept. 
 Each unpooled edge feature is a weighted combination of the pooled edge features.
+
+###### Tags
+#ComputerGraphics #MeshProcessing #ConvolutionalNeuralNetworks #GraphTheory #GeometricDeepLearning #TopologicalDataAnalysis #ComputerVision #ImageProcessing #MachineLearning #GraphConvolutionalNetworks #DeepLearning

@@ -99,3 +99,6 @@ class GeometricVectorPerceptron(tfl.Layer):
     V_prime = self.vector_nonlinearity(vμ)*Vμ
     return s_prime, V_prime
 ```
+
+###### Tags
+#GeometricDeepLearning #GraphNeuralNetworks #MachineLearning #TensorFlow #DeepLearning #ComputationalBiology #LinearAlgebra #MessagePassing #Geometry

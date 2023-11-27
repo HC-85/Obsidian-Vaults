@@ -6,3 +6,6 @@ $$
 d_{GH}(X,Y) = \inf \left[d_H(f(X),f(Y))\right]
 $$
 for all metric spaces $M$ and isometric embeddings $f:X\rightarrow M$ and $g:Y\rightarrow M$.
+
+###### Tags
+#Embeddings  #Topology #Analysis #Geometry

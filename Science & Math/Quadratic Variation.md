@@ -13,3 +13,6 @@ $$
 \end{align}
 $$
 The last using the [[Polarization Identity|polarization identity]]
+
+###### Tags
+#StochasticProcesses #ProbabilityTheory #MathematicalFinance #RealAnalysis #StochasticCalculus

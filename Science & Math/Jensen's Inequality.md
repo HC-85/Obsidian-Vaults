@@ -12,3 +12,6 @@ $$
 $$
 decreases as $\theta\rightarrow 0^+$.
 something something
+
+###### Tags
+#ConvexAnalysis #ProbabilityTheory #Topology #Analysis

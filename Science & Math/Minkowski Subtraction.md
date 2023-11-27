@@ -8,3 +8,7 @@ $$
 $$
 A\ominus B = (A^c\oplus B)^c
 $$
+Somehow important in convex analysis #Pending
+
+###### Tags
+#SetTheory #Topology #GeometricMeasureTheory #ConvexAnalysis #FunctionalAnalysis #AlgebraicGeometry #RealAnalysis

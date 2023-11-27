@@ -19,3 +19,5 @@ The open sets in the product topology are unions of the form: $\prod_{i\in I}U_i
 For a finite product, the set of all Cartesian products of one basis element from each $X_i$ produces a basis for the product topology of $\prod_{i\in I} X_i$ 
 #Pending https://en.wikipedia.org/wiki/Product_topology
 
+###### Tags
+#Topology #Analysis

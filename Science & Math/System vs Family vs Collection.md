@@ -5,3 +5,6 @@ Usually interchangeable but depends on the characteristic to emphasize:
 	- puts emphasis on the objects themselves.
 - Family: 
 	- puts emphasis on the properties that the objects satisfy.
+
+###### Tags
+#SetTheory #AbstractAlgebra #Logic

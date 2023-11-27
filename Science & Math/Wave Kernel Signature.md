@@ -119,3 +119,6 @@ $$
 - Stable under perturbations.
 - Well defined even for degenerate LP operators.
 - Can be easily made scale-invariant.
+
+###### Tags
+#QuantumMechanics #Topology #SpectralAnalysis #PerturbationTheory  #StabilityAnalysis

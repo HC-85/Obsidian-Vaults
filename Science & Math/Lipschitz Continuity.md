@@ -15,3 +15,5 @@ For functions over a closed and bounded non-trivial interval of the real line, w
 Continuous differentiable $\subset$ Lipschitz continuous $\subset$ $\alpha$-Hölder continuous, with $0\leq\alpha\leq 1$
 Lipschitz continuous $\subset$ absolutely continuous $\subset$ uniformly continuous
 
+###### Tags
+#Analysis #FunctionalAnalysis #RealAnalysis #Topology #DifferentialEquations

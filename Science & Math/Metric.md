@@ -3,3 +3,6 @@ $$
 g(x,x) = 0
 $$
 If $g(x,y)=0\implies x=y$,  $g$ is a metric, otherwise $g$ is a pseudo-metric.
+
+###### Tags
+#Geometry #FunctionalAnalysis #Analysis #Topology

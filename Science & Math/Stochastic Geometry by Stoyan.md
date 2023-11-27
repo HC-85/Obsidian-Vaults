@@ -79,3 +79,6 @@ See: [[Polish Space]]
 We denote the family of non-empty compact sets in $\mathbb{R}^d$ as:
 $$\mathbb{K}^\prime = \mathbb{K}\verb|\|\{\emptyset\}$$
 We can turn $\mathbb{K}^\prime$ into a [[metric space]] by endowing it with the [[Hausdorff Distance|Hausdorff metric]].
+
+###### Tags
+#SetTheory #Topology #Geometry #StochasticGeometry #StochasticProcesses 

@@ -13,3 +13,5 @@ $$
 $$
 for a [[Discrete Probability Density Function|probability mass function]] $P$.
 
+###### Tags
+#ProbabilityTheory #DiscreteMathematics  #ParameterEstimation

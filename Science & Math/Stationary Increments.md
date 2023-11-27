@@ -6,3 +6,6 @@ $$
 depends only on $h$ but not $t$ for all $t\geq 0$ and $h>0$
 
 See: [[Levy Process]], [[Poisson Point Process]], [[Random Walk]]
+
+###### Tags
+#StochasticProcesses #ProbabilityTheory

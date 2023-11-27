@@ -30,7 +30,7 @@ $$
 J(\pmb \theta) = \frac{1}{2}\int_{\pmb\xi\in\mathbb{R}^n}p_{\textbf{x}}(\pmb\xi)\|\pmb\psi(\pmb\xi;\pmb\theta)-\pmb\psi_{\textbf{x}}(\pmb\xi)\|^2 \text{ d}\pmb\xi
 $$
 This is still hard since it involves computing an estimator of $\psi_{\textbf{x}}$ from samples. However, this can be avoided by assuming $\pmb\psi(\pmb{\xi}; \pmb{\theta})$ to be differentiable and  some weak regularities:
-- PDF $p_{\textbf{x}}(\pmb\xi) differentiable$
+- PDF $p_{\textbf{x}}(\pmb\xi)$ differentiable
 - $\mathbb{E}_{\textbf{x}}(\|\pmb\psi(\pmb x; \pmb \theta)\|^2)<\infty$ $\forall\pmb \theta$
 - $\mathbb{E}_{\textbf{x}}(\|\pmb\psi_\textbf{x}(\pmb x)\|^2)<\infty$ $\forall\pmb \theta$
 - $\lim_{\|\pmb\xi\|\rightarrow\infty}p_{\textbf{x}}(\pmb\xi)\pmb\psi(\pmb \xi; \pmb \theta)=0$  $\forall\pmb \theta$
@@ -40,3 +40,6 @@ J(\pmb \theta) = \int_{\pmb\xi\in\mathbb{R}^n}p_{\textbf{x}}(\pmb\xi) \sum_{i=1}
 $$
 where $C$ is a constant and independent $\pmb\theta$
 something something makes it easy
+#DontGetIt 
+###### Tags
+#ProbabilityTheory #StatisticalAnalysis #Optimization #FunctionalAnalysis

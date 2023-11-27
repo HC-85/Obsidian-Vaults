@@ -15,3 +15,6 @@ Let $P$ be a probability distribution over $Z^m$, then the Rademacher complexity
 $$
 \text{Rad}_{P,m}(\mathcal{F}):=\mathbb{E}_{S\sim P^m}[\text{Rad}_S(\mathcal{F})]
 $$
+
+###### Tags
+#ProbabilityTheory #StatisticalLearningTheory #StatisticalAnalysis

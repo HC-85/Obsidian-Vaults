@@ -20,3 +20,6 @@ $$
 \text{Var}[X_t]=\int^t_0\sigma_s^2\text{ d}s
 $$
 #Pending 
+
+###### Tags
+#StochasticCalculus #ItoCalculus #StochasticDifferentialEquation #StochasticProcesses #ProbabilityTheory #MathematicalFinance #Analysis

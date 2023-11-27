@@ -6,3 +6,6 @@ $Y$ is a martingale with respect to a [[Filtration|filtration]] $\Sigma_*$ and p
 - $Y$ is [[Adapted Process|adapted]] to $\Sigma_*$
 - $\mathbb{E}_P(\|Y_t\|_B)<+\infty$ $\forall t$ 
 - $\mathbb{E}_P([Y_t-Y_s]\mathcal{X}_{F})=0$ $\forall s<t\in I$ and $\forall \mathcal{X}\in\Sigma_s$ for an [[Indicator Function|indicator function]] $\mathcal{X}_F$
+
+###### Tags
+#StochasticProcesses #ProbabilityTheory #MeasureTheory #Analysis

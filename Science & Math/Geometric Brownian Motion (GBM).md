@@ -45,4 +45,5 @@ Rearranging:
 $$
 S_t = S_0\exp\left(\sigma W_t + \left(\mu-\frac{1}{2}\sigma^2\right)t\right)
 $$
-#Pending 
+###### Tags
+#StochasticCalculus #ItoCalculus #FinancialMathematics #StochasticDifferentialEquation

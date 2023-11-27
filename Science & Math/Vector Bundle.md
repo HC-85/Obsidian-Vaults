@@ -11,3 +11,6 @@ where $U$ is an open neighborhood of $x$ and:
 - $(\pi\circ\varphi)(x,v)=x$,  $\forall v\in\mathbb{R}^k$ 
 - $v\mapsto \varphi(x,v)$ is a linear isomorphism between $\mathbb{R}^k\rightarrow \pi^{-1}(\{x\})$
 The open neighborhood $U$ together with $\varphi$ is the local trivialization of the vector bundle since locally the map $\pi$ looks similar to the projection $U\times\mathbb{R}^k\rightarrow U$.
+
+###### Tags
+#DifferentialGeometry #Topology #AlgebraicTopology #Geometry

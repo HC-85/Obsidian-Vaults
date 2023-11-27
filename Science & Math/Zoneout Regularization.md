@@ -4,3 +4,6 @@ $$
 h_t = d_t\odot h_{t-1} + (1-d_t)\odot \tilde{h}_t
 $$
 Creates skip connections in time, helping with vanishing gradients.
+
+###### Tags
+#DeepLearning #RecurrentNeuralNetworks #NeuralNetworks #MachineLearning #Optimization #Regularization 

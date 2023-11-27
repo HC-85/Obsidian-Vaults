@@ -9,3 +9,6 @@ A Wiener process $W_t$ is such that:
 - $Wt$ is almost surely continuous in $t$.
 
 Alternatively, an almost surely continuous [[Martingale|martingale]] with $W_0=0$ and [[Quadratic Variation|quadratic variation]] $[W_t,W_t]=t$ 
+
+###### Tag
+#StochasticProcesses #ProbabilityTheory #StochasticCalculus

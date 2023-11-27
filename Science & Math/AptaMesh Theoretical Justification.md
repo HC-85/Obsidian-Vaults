@@ -81,3 +81,5 @@ $$
 W^e_{H} = W(e, H) = \sum_{i=1}^n[\phi_i (e)]^2\exp\left(-\frac{(H-\lambda_i)^2}{2\sigma^2}\right)
 $$
 
+###### Tags
+#Geometry #SpectralGeometry #MeshAnalysis #SpectralAnalysis #PartialDifferentialEquations #ComputationalGeometry #MachineLearning #DeepLearning

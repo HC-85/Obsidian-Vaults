@@ -1,4 +1,4 @@
-#Paper #LLM #NLP
+#Paper
 "Pretrained word embedding tables improve downstream task results compared to word embedding tables learned from scratch."
 "Finetuning the language model in an end to end fashion on downstream tasks."
 Modern transformer:
@@ -7,3 +7,6 @@ Purple blocks are fully connected layers.
 
 Main proposition is to split the model across multiple accelerators. 
 #Pending 
+
+###### Tags
+#NaturalLanguageProcessing #DeepLearning #TransformerArchitecture #Embeddings #MachineLearning #NeuralNetworks #LanguageModels #AcceleratedComputing

@@ -26,5 +26,10 @@ That is, we are looking for the most regular functions within $\mathcal{F}$.
 For standard spaces, $c$ can be defined as a norm, thus making $\mathcal{F}$ a [[Banach Space|Banach space]]. 
 
 For low dimensions, splines are the main tool for approximating functions and can be formulated as above with a norm defining smoothness.
+
+#Pending 
 # Geometric Priors
 # Geometric Domains
+
+###### Tags
+#GeometricDeepLearning #Geometry #DeepLearning #Topology #ApproximationTheory #Regularization #FunctionalAnalysis #SignalProcessing #SpectralTheory #AlgebraicTopology 

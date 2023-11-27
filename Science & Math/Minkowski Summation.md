@@ -18,3 +18,5 @@ Let $A$ and $B$ be sets and $1_A$ and $1_B$ their [[Indicator Function|indicator
 $$
 A\oplus B = 1_A*1_B
 $$
+###### Tags
+#SetTheory #FunctionalAnalysis #RealAnalysis #Topology #GeometricAnalysis #AbstractAlgebra

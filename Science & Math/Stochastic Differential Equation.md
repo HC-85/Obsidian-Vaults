@@ -7,3 +7,6 @@ $$
 - $dW_t$ is an increment in the [[Wiener process]]. Random noise.
 
 A simple example is [[Geometric Brownian Motion (GBM)]].
+
+###### Tags
+#StochasticCalculus #StochasticDifferentialEquations #ProbabilityTheory

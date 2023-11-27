@@ -3,3 +3,6 @@ $$
 Y_t = \int_0^t H_s \text{ d}X_s
 $$
 #Pending 
+
+###### Tags
+#StochasticCalculus #StochasticProcesses #ProbabilityTheory #MathematicalFinance #StochasticDifferentialEquations #MeasureTheory

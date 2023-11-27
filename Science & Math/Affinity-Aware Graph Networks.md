@@ -37,3 +37,6 @@ $$
 \hat{\mathbf{r}}_v=QBL^\dagger\mathbf{1}_v
 $$
 Through fast Laplacian solvers we can get running time approximately proportional to edge number.
+
+###### Tags
+#GraphTheory #NetworkAnalysis  #Embeddings #LinearAlgebra #DimensionalityReduction #MatrixAnalysis #AlgorithmAnalysis #Clustering #MessagePassing #SpectralGraphTheory 

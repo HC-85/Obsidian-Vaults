@@ -49,3 +49,6 @@ $P_e=0.9$ permeability factor to allow receptor plasticity.
 Repulsive vdW only for $f(i,j)\geq3$ consecutive covalent bonds.
 Intramolecular interactions are omitted.
 ## LeDock
+
+###### Tags
+#Biophysics #PhysicalChemistry  #ComputationalChemistry #MolecularDynamics #Bioinformatics
