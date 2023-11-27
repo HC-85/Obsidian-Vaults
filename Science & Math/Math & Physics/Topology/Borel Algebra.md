@@ -1,0 +1,1 @@
+Smallest $\sigma$-[[Sigma Algebra|algebra]] containing all open sets on a [[Topological Space|topological space]].

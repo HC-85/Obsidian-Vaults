@@ -1,0 +1,1 @@
+For a [[Topological Space|topological space]] ($X$, $\tau$), the base for its topology $\tau$  is $\mathcal{B}\in\tau$, if $\forall x\in\tau$, $\exists$ a subfamily of $\mathcal{B}$ such that its union equals $x$.

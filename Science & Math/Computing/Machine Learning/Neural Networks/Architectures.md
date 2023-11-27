@@ -1,5 +1,5 @@
 # Generative Models
-Rely heavily on [[Probability and Statistics|stochasticity]].
+Rely heavily on [[Basic Probability and Statistics|stochasticity]].
 
 
 ## Autoencoders

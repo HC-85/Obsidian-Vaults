@@ -1,4 +1,12 @@
 Generalization of [[GNNs]]
+
+Check [[Weisfeiler-Lehman Test]].
+Check [[Simplicial complexes]]
+
+The [[simplicial Hodge Laplacian]], a discrete counterpart of the [[Discrete Laplacian Operator|discrete Laplacian]] in [[Hodge-de Ram theory]], provides a connection with the theory of [[spectral analysis]] and [[signal processing]] on high dimensional domains.
+
+_Message Passing Simplicial Networks_: https://arxiv.org/pdf/2103.03212.pdf
+
 Let $G$ be an unidirected graph, $x_v$ be node features and $e_{vw}$ be edge features.
 
 ### Message passing phase

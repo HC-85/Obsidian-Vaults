@@ -1,0 +1,1 @@
+Combines [[Symbolic Artificial Intelligence]] with neural architectures in the hopes of addressing each other's weaknesses.

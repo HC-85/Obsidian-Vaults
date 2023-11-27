@@ -96,7 +96,7 @@ In terms of weight matrices, the adjoint is the transpose. Thus if the original 
 The problem with reverse accumulation mode is that one needs to store the intermediate variables $w_i$ as well as the operation that produced them. This can be achieved using a [[Wengert list]] or [[tf.GradientTape|tape]]. 
 
 ## Dual number implementation???
-Automatic differentiation may also be implemented through [[Dual numbers|dual numbers]] as follows:
+Automatic differentiation may also be implemented through [[Dual Numbers|dual numbers]] as follows:
 
 There is a library called Adept that implements them through the use of [[template-metaprogramming]].
 

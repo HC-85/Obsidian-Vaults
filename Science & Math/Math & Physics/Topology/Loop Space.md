@@ -1,0 +1,1 @@
+The loop space $\Omega X$, of a pointed topological space $X$, is the space of based loops in $X$. The multiplicative operation of loop concatenation is homotopy-coherently associative and thus the loop space becomes an $A_\infty$[[A-infinity space|-space]]. 
