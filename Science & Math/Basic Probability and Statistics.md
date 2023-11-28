@@ -9,4 +9,4 @@ $|\mathcal{S}\times \mathcal{S}| = |\mathcal{S}||\mathcal{S}|$
 P(A) = |A|/|S|
 
 ###### Tags
-#SetTheory #ProbabilityTheory  #BasicProbability #Combinatorics
+#SetTheory  #ProbabilityTheory  #BasicProbability #Combinatorics
