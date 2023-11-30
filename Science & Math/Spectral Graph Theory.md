@@ -1,4 +1,4 @@
-#SpectralGraphTheory #Book #Pending 
+#Book #Pending 
 # Ch1: Eigenvalues and the Laplacian of a graph
 Attempts to describe the main properties of a graph in terms of its graph spectrum.
 There is an analogy between spectral graph theory and [[spectral Riemmanian geometry]]
@@ -12,3 +12,6 @@ $$
 \mathcal{L} = D^{-1/2}LD^{-1/2}
 $$where $L$ is the [[Laplacian matrix]] and $D$ the degree matrix.
 Learn [[Homology Theory]]
+
+###### Tags
+#SpectralGraphTheory 

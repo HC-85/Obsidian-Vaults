@@ -1,5 +1,4 @@
-###### Tags
-#Book #QuantumMechanics #LinearAlgebra #ProbabilityTheory #ComplexAnalysis #FunctionalAnalysis #Physics
+#Book 
 # Phenomena of Quantum Mechanics
 Can be seen from three perspectives:
 - Discreteness
@@ -102,3 +101,6 @@ $$
 \end{align}
 $$
 Page 13
+
+###### Tags
+#QuantumMechanics #LinearAlgebra #ProbabilityTheory #ComplexAnalysis #FunctionalAnalysis

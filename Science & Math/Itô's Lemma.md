@@ -22,4 +22,4 @@ $$
 #Pending 
 
 ###### Tags
-#StochasticCalculus #ItoCalculus #StochasticDifferentialEquation #StochasticProcesses #ProbabilityTheory #MathematicalFinance #Analysis
+#StochasticCalculus #StochasticDifferentialEquation #StochasticProcesses #ProbabilityTheory #MathematicalFinance #Analysis

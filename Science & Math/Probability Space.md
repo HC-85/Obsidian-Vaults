@@ -6,4 +6,4 @@ Also called a probability triple ($\Omega$, $\mathcal{F}$, $P$):
 Often arises from a [[Measureable Space|measurable space]] + probability function.
 
 ###### Tags
-#ProbabilityTheory #AbstractAlgera #MeasureTheory
+#ProbabilityTheory #AbstractAlgebra #MeasureTheory

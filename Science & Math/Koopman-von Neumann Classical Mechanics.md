@@ -2,5 +2,5 @@ Reformulation of classical mechanics in an operational framework through the use
 
 Related to [[Functional Analysis|functional analysis]], [[Ergodic theory|ergodic theory]], 
 
-##### Tags
+###### Tags
 #QuantumMechanics #FunctionalAnalysis #ErgodicTheory #ClassicalMechanics #OperatorTheory 

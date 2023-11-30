@@ -8,4 +8,4 @@ With $i \in \{1, ... n\}$
 The coefficients of the expansion can be obtained using the [[Hartree-Fock Method|Hartree-Fock method]]
 
 ###### Tags
-#QuantumChemistry #ComputationalChemistry #QuantumPhysics
+#QuantumChemistry #ComputationalChemistry #QuantumMechanics 

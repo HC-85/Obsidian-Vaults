@@ -6,5 +6,5 @@ $$
 These may also refer to the Laplacians obtained through [[finite differences]]. 
 
 ###### Tags
-#SpectralGraphTheory #GraphTheory #GraphAnalysis #RingTheory
+#SpectralGraphTheory #GraphTheory #RingTheory
 #FiniteDifferences

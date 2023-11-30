@@ -23,4 +23,4 @@ Using the logistic distribution CDF, leads to SiLU: $x\sigma(x)$
 Generally, one could use the CDF of $\mathcal{N}(\mu, \sigma^2)$
 
 ###### Tags
-#NeuralNetworks #DeepLearning #ProbabilityTheory #StochasticRegularization #MachineLearning #Regularization
+#NeuralNetworks #DeepLearning #ProbabilityTheory #MachineLearning #Regularization

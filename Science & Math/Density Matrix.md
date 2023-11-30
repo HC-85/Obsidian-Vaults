@@ -40,4 +40,4 @@ $$
 $$
 
 ###### Tags
-#QuantumMechanics #OperatorTheory #MixedStates #FunctionalAnalysis #MatrixTheory #MatrixRepresentation  #QuantumInformationTheory
+#QuantumMechanics #OperatorTheory #FunctionalAnalysis #MatrixTheory #MatrixRepresentation  #QuantumInformationTheory

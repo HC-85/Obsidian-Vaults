@@ -1,4 +1,4 @@
-#Book #Geometry #DeepLearning #Topology 
+#Book
 # Introduction
 Feature learning + backpropagation
 Does not focus on pipelines but on representation learning architectures.

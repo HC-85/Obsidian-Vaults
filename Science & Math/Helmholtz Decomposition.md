@@ -10,4 +10,4 @@ Let $\mathbf{F}(\mathbf{r})$ be a vector function with known curl and divergence
 #Pending
 
 ###### Tags
-#VectorCalculus #ProbabilityTheory  #PartialDifferentialEquations #Physics #Electromagnetism #BoundaryValueProblems
+#VectorCalculus #ProbabilityTheory  #PartialDifferentialEquations #Electromagnetism #BoundaryValueProblems

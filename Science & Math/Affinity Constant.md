@@ -14,5 +14,5 @@ $$
 \Delta G = -RT\ln(K_ac^{\theta})
 $$
 
-###### Tags 
+###### Tags
 #Chemistry #Thermodynamics #StatisticalMechanics 

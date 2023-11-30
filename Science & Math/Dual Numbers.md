@@ -66,4 +66,4 @@ a & b\\
 \end{pmatrix}
 $$
 ###### Tags
-#HypercomplexNumbers #GrassmannNumbers #CliffordAlgebra #GrassmannAlgebra #RingTheory #ExteriorAlgebra #MatrixRepresentation #AbstractAlgebra #LinearAlgebra
+#HypercomplexNumbers #CliffordAlgebra #GrassmannAlgebra #RingTheory #ExteriorAlgebra #MatrixRepresentation #AbstractAlgebra #LinearAlgebra

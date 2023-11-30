@@ -9,4 +9,4 @@ Main proposition is to split the model across multiple accelerators.
 #Pending 
 
 ###### Tags
-#NaturalLanguageProcessing #DeepLearning #TransformerArchitecture #Embeddings #MachineLearning #NeuralNetworks #LanguageModels #AcceleratedComputing
+#NaturalLanguageProcessing #DeepLearning #TransformerArchitecture #Embeddings #MachineLearning #NeuralNetworks #LanguageModels #ParallelProgramming 

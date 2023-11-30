@@ -42,4 +42,4 @@ g^{(n)}(\mathbf{r}_1, ..., \mathbf{r}_n) = \frac{V^N}{N!}\left(\prod_{i=n+1}^N\f
 $$
 
 ###### Tags
-#StatisticalMechanics #ProbabilityTheory #QuantumMechanics #Physics #GroupTheory
+#StatisticalMechanics #ProbabilityTheory #QuantumMechanics #GroupTheory

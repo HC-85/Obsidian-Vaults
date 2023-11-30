@@ -11,4 +11,4 @@ $$
 \rho(\mathbf{r}) = \sum^N_{k=1}n_k|\varphi_k(\mathbf{r})|^2
 $$
 ###### Tags
-#QuantumChemistry #DensityFunctionalTheory #QuantumMechanics #Physics 
+#QuantumChemistry #DensityFunctionalTheory #QuantumMechanics

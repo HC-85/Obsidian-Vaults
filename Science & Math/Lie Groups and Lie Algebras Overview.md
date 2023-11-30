@@ -1,3 +1,4 @@
+#VideoLecture
 A Lie group $G$ is such that it is also a smooth manifold.
 The Lie algebra $\mathcal{G}$ of $G$, is the tangent space of $G$ at the identity.
 $\mathcal{G}$ has the bilinear operation $[\cdot, \cdot]$: $\mathcal{G}\times \mathcal{G} \rightarrow \mathcal{G}$ such that:
@@ -28,6 +29,4 @@ sl_2 = \left( \matrix{x & y \\ z & w} \right):x + w = 0
 $$
 
 ###### Tags
-#VideoLecture #LieTheory #MatrixRepresentation  #GroupTheory #AbstractAlgebra 
-
- 
+#LieTheory #MatrixRepresentation  #GroupTheory #AbstractAlgebra

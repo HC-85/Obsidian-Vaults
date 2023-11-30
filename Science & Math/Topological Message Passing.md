@@ -59,4 +59,4 @@ $$
 \partial_{k-1}\circ\partial_k = 0 \iff \text{im } \partial_k\subseteq \ker \partial_{k-1}
 $$
 ###### Tags
-#Topology #GraphTheory #DeepLearning #GeometricDeepLearning #AlgebraicTopology #SimplicialComplex #MessagePassing #GraphMachineLearning #HomologyTheory
+#Topology #GraphTheory #DeepLearning #GeometricDeepLearning #AlgebraicTopology #SimplicialTopology  #MessagePassing #HomologyTheory

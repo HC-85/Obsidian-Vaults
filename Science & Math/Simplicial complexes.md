@@ -1,5 +1,3 @@
-###### Tags
-#AlgebraicTopology #Geometry #LinearAlgebra #Combinatorics #Topology #SimplicialTopology #GraphTheory  #Diffusion #SignalProcessing #SpectralGraphTheory #NetworkAnalysis #ComplexNetworks #AbstractAlgebra #HodgeTheory #SetTheory
 ## Basic definitions
 Let $V$ be a non-empty vertex set.
 The convex hull $\sigma = \{v_0,..., v_k\}$, where $v_0, ...v_k \in V$ are affinely independent points, is a $k$-simplex.
@@ -31,3 +29,5 @@ L_k = B^\top_k B_k + B_{k+1}B_{k+1}^\top
 $$
 which for $k=0$ gives the graph Laplacian.
 
+###### Tags
+#AlgebraicTopology #Geometry #LinearAlgebra #Combinatorics #Topology #SimplicialTopology #GraphTheory  #Diffusion #SignalProcessing #SpectralGraphTheory #NetworkAnalysis #ComplexNetworks #AbstractAlgebra #HodgeTheory #SetTheory

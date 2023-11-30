@@ -39,4 +39,4 @@ $$
 Through fast Laplacian solvers we can get running time approximately proportional to edge number.
 
 ###### Tags
-#GraphTheory #NetworkAnalysis  #Embeddings #LinearAlgebra #DimensionalityReduction #MatrixAnalysis #AlgorithmAnalysis #Clustering #MessagePassing #SpectralGraphTheory 
+#GraphTheory  #Embeddings #LinearAlgebra #DimensionalityReduction #Clustering #MessagePassing #SpectralGraphTheory 
