@@ -51,5 +51,6 @@ Big bang is conformal, that is, only preserves angles, not sizes. Thus light wou
 
 The simplicity of the large-scale geometry of the universe can be explained thermodynamically.
 
+#Pending 
 ###### Tags
 #Cosmology #QuantumMechanics #ParticlePhysics #ConformalCosmology #Thermodynamics

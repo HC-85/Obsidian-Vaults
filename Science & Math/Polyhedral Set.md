@@ -1,0 +1,1 @@
+Collection of matrices that can be described using linear inequalities.

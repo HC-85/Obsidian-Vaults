@@ -1,5 +1,8 @@
 AKA spectrum
-Is a notion of where a measure lives in the [[Measureable Space|measurable]] [[Topological Space|topological space]].
+Subset of the domain of a real-valued function $f$ that does not map to zero.
+If the domain of $f$ is a topological space, the support is the smallest closed set of all points not mapped to zero.
+
+Is a notion of where a measure lives in the [[Measurable Space|measurable]] [[Topological Space|topological space]].
 
 Let:
 - ($X$, $\tau$) be a topological space

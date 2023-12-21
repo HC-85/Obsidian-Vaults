@@ -1,4 +1,4 @@
-Obtained by transferring a measure from one [[Measureable Space|measurable space]] to another by a [[Measurable Function|measurable function]].
+Obtained by transferring a measure from one [[Measurable Space|measurable space]] to another by a [[Measurable Function|measurable function]].
 
 Given: 
 - Measurable spaces: ($X_1, \Sigma_1$) and ($X_2, \Sigma_2$)

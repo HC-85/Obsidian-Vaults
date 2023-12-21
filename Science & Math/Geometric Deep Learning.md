@@ -634,7 +634,7 @@ $$
 $$
 For every $\mathfrak{g}\in\mathfrak{G},k\in\mathbb{Z}$
 
-We now look to build linear variants, that is:
+We now look to build linear invariants, that is:
 $$
 \mathcal{J}:\mathbb{R}^d\rightarrow\mathbb{R}
 $$
@@ -642,7 +642,7 @@ such that:
 $$
 \mathcal{J}(\mathfrak{g}.x) = \mathcal{J}(x)\text{ }\forall\mathfrak{g}\in\mathfrak{G}
 $$
-Since all linear forms ($\mathbb{R}^d\rightarrow\mathbb{R}$) are dot products:
+Since all linear forms (functionals) ($\mathbb{R}^d\rightarrow\mathbb{R}$) are dot products:
 $$
 \begin{align}
 \langle x, v\rangle &= \mathcal{J}(x)\\

@@ -3,4 +3,4 @@
 For the case of a [[Probability Space|probability space]] with $\sigma$[[Sigma Algebra|-algebra]] $\mathcal{A}$, the filtration $(\mathcal{F}_i)_{i\in I}$ for $\mathcal{F}_i\subseteq\mathcal{A}$ is such that $\mathcal{F}_k\subseteq\mathcal{F}_\ell$ for $k\leq\ell$
 
 ###### Tags
-#AbstractAlgebra  #ProbabilityTheory #StochasticProcesses
+#AbstractAlgebra  #ProbabilityTheory #StochasticProcesses #AlgebraicTopology 

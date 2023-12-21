@@ -1,7 +1,7 @@
 Generalization of [[Random Variable|random variables]] for spaces beyond the real line.
 Usually assumes the space of values is a [[Topological Vector Space|topological vector space]]
 
-Let $(\Omega, \mathcal{F}, P)$ be a [[Probability Space|probability space]] and $(E, \Sigma)$ be a [[Measureable Space|measurable space]].
+Let $(\Omega, \mathcal{F}, P)$ be a [[Probability Space|probability space]] and $(E, \Sigma)$ be a [[Measurable Space|measurable space]].
 
 A random element is then:
 A function $X:\Omega\rightarrow E$ with values in $E$ that is $(\mathcal{F}, \Sigma)$-measurable

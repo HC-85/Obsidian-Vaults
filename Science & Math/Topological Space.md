@@ -1,5 +1,6 @@
 Generalization of [[Metric Space|metric spaces]].
 Geometrical space in which closeness is defined.
+
 Let $X$ be a set whose elements are called points. 
 Let $\mathcal{N}$ be a function that assigns to each point a non-empty collection of subsets of $X$, the neighborhoods of the point.
 $\mathcal{N}$ is a neighborhood topology if:

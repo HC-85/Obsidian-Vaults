@@ -1,0 +1,1 @@
+[[Statistical Distance|Statistical distance]] from one probability distribution from another on a [[Statistical Manifold|statistical manifold]].

@@ -7,5 +7,6 @@ d_{GH}(X,Y) = \inf \left[d_H(f(X),f(Y))\right]
 $$
 for all metric spaces $M$ and isometric embeddings $f:X\rightarrow M$ and $g:Y\rightarrow M$.
 
+If $X$ and $Y$ are of the same metric space, it reduces to [[Hausdorff Distance]].
 ###### Tags
 #Embeddings  #Topology #Analysis #Geometry
