@@ -11,8 +11,8 @@ For cases when the probability space is a metric space, [[Wasserstein Metric|Was
 The regularization turns the problem into a convex problem solvable with [[Matrix Scaling Algorithm|matrix scaling algorithms]].
 
 ## Optimal Transport
-Let $\langle -, -\rangle$ be the Frobenius inner product.
-Let $r$ and $c$ be two probability vectors in the simplex $\Sigma _d:=\{x\in\mathbb{R}^d_{+}:x^\top\mathbb{1}_d=1\}$, then the transport [[Polytope|polytope]] $U(r,c)$ of $r$ and $c$ is the [[Polyhedral Set|polyhedral set]] of $d\times d$ matrices:
+Let $\langle -, -\rangle_{F}$ be the [[Frobenius Inner Product|Frobenius inner product]].
+Let $r$ and $c$ be two [[Stochastic Vector|probability vectors]] in the [[Simplex|simplex]] $\Sigma _d:=\{x\in\mathbb{R}^d_{+}:x^\top\mathbb{1}_d=1\}$, then the [[Transport Polytopes|transport]] [[Polytope|polytope]] $U(r,c)$ of $r$ and $c$ is the [[Polyhedral Set|polyhedral set]] of $d\times d$ matrices:
 $$
 U(r,c):=\{P\in\mathbb{R}^{d\times d}_{+}|P\mathbb{1}_d=r, P^\top\mathbb{1}_d=c\}
 $$
@@ -42,6 +42,10 @@ $$
 \end{align}
 $$
 ## Sinkhorn Distances: Optimal Transport with Entropic Constraints
+Turns the transport problem into a purely convex problem solvable through [[Sinkhorn's Algorithm|matrix scaling]].
+Unlike [[Simplex Algorithm|simplex algorithms]], one can exploit GPUs for speed.
+
+
 The information-theoretic [[Data Processing Inequality|inequality]] for joint probabilities:
 $$
 h(P)\leq h(r)+h(c)

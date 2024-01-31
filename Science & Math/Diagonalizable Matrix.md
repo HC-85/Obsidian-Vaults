@@ -1,0 +1,1 @@
+A matrix is diagonalizable if it is [[Matrix Similarity|similar]] to a diagonal matrix.

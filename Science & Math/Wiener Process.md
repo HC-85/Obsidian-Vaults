@@ -1,5 +1,5 @@
 See: [[Levy Process|Levy process]].
-Real valued continuous-time stochastic process.
+Real valued continuous-time [[Stochastic Process|stochastic process]].
 Sometimes called Brownian motion.
 
 A Wiener process $W_t$ is such that:

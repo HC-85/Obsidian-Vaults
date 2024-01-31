@@ -1,0 +1,1 @@
+A matrix $M$ has an eigendecomposition iff it is [[Diagonalizable Matrix|diagonalizable]].

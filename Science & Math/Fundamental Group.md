@@ -8,5 +8,5 @@ We must define a basepoint $x_0$, through which our loops must go. The choice fo
 
 The group elements are all the [[homotopy classes]] of loops based as $x_0$. Two loops are considered in the same homotopy class if they can be deformed into one another while keeping the basepoint fixed. 
 
-The group operation is loop concatenation. The resulting loop is allowed to have self-intersections (???).
+The group operation is loop concatenation. The resulting loop is allowed to have self-intersections (???). #DontGetIt 
 

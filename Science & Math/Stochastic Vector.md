@@ -1,0 +1,1 @@
+Each index represents an outcome for a discrete [[random variable]], and each corresponding element its probability.

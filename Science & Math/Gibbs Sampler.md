@@ -1,0 +1,2 @@
+A kind of [[Markov Chain Monte Carlo|Markov chain Monte Carlo]] algorithm for sampling when direct sampling of the [[Joint Probability Distribution|joint distribution]] is harder than sampling from the [[Conditional Probability Distribution|conditional distribution]].
+#Pending 

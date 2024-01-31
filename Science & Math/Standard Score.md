@@ -1,0 +1,1 @@
+Number of standard deviations a [[Raw Scire|raw score]] is from the mean.

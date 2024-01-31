@@ -1,0 +1,1 @@
+[[Convex polytope]] whose vertices are the [[Matching|matchings]] of some graph.

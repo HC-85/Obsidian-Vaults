@@ -1,0 +1,1 @@
+Subset of a [[Partial Order|partially ordered]] set that is [[Total Order|totally ordered]] for the induced order.
