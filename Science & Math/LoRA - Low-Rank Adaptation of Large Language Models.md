@@ -15,3 +15,5 @@ $BAx$ is rescaled by $\alpha/r$ "where $\alpha$ is a constant in $r$".
 
 With Adam, "this is similar to tuning the learning rate if the initialization is scaled appropriately. As a result, we simply set $\alpha$ to the first $r$ we try and do not tune it. This scaling helps to reduce the need to retune hyperparameters when we vary $r$" #DontGetIt 
 
+
+#Pending : https://colab.research.google.com/drive/1QG1ONI3PfxCO2Zcs8eiZmsDbWPl4SftZ

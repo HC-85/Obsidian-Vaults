@@ -4,3 +4,8 @@ Describes the loading state of a document as either:
 	- DOMContentLoaded event is about to fire
 - complete
 	- load event is about to fire
+
+###### Tags
+#Web 
+
+###### Tags

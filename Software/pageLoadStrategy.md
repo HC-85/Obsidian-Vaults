@@ -4,3 +4,6 @@ Queries the document [[readyState]]:
 - normal: complete
 - eager: interactive
 - none: Any
+
+###### Tags
+#Web
