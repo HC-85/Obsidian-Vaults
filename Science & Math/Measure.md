@@ -7,4 +7,4 @@ A set function $\mu:\Sigma \rightarrow \overline{\mathbb{R}}$ is a measure if:
 The last property is called $\sigma$-additivity or countable additivity
 
 ###### Tags
-#MeasureTheory #RealAnalysis #ProbabilityTheory #FunctionalAnalysis #Topology #HarmonicAnalysis #AbstractAlgebra
+#MeasureTheory #RealAnalysis #ProbabilityTheory #FunctionalAnalysis #Topology #AbstractAlgebra

@@ -9,6 +9,7 @@ The pushforward measure of $\mu$, $f_*(\mu):\Sigma_2\rightarrow [0, +\infty]$, i
 $$
 f_*(\mu)(B) = \mu(f^{-1}(B))\text{, }B\in \Sigma_2
 $$
-#DontGetIt 
+
+Like an [[Isometric Embedding|isometric embedding]] for measurable spaces instead of metric spaces.
 ###### Tags
 #MeasureTheory #ProbabilityTheory #FunctionalAnalysis 

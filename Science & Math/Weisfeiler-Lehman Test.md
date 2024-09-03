@@ -16,4 +16,4 @@ The collection of all automorphisms of $G$ form a permutation group.
 
 _HOW POWERFUL ARE GRAPH NEURAL NETWORKS?_: https://arxiv.org/pdf/1810.00826v3.pdf
 _Expressive power of graph neural networks and the Weisfeiler-Lehman test_: https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49
-_Graph Representation Learning_: https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
+[[Graph Representation Learning]]: https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf

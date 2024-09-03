@@ -1,0 +1,1 @@
+Compresses information in [[Bipartite Graph|bipartite graphs]] by performing a one-mode [[Relational Projection|projection]].

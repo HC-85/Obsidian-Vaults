@@ -1026,14 +1026,14 @@ $$
 Nonetheless, the choice of gauge is arbitrary.
 A gauge is defined up to a gauge transformation $\mathfrak{g}:\Omega\rightarrow\mathfrak{G}$:
 
-| Structure|Group|Representation|
-|-------------------|--------|---------------------|
-| Naked Manifold | $GL(s)$ | Invertible Matrices |
-| Manifold + Orientation|$GL^+(s)$|Invertible Matrices with $\det\geq 0$|
-| Manifold + Volume|$SL(s)$|Matrices with $\det=1$|
-| Manifold + Metric|$O(s)$|Orthogonal Matrices|
-| Manifold + Metric + Orientation|$SO(s)$|Orthogonal Matrices with $\det=1$|
-| Manifold + Frame Field|$\{\text{id}\}$|Identity (No ambiguity)|
+| Structure                       | Group           | Representation                        |
+| ------------------------------- | --------------- | ------------------------------------- |
+| Naked Manifold                  | $GL(s)$         | Invertible Matrices                   |
+| Manifold + Orientation          | $GL^+(s)$       | Invertible Matrices with $\det\geq 0$ |
+| Manifold + Volume               | $SL(s)$         | Matrices with $\det=1$                |
+| Manifold + Metric               | $O(s)$          | Orthogonal Matrices                   |
+| Manifold + Metric + Orientation | $SO(s)$         | Orthogonal Matrices with $\det=1$     |
+| Manifold + Frame Field          | $\{\text{id}\}$ | Identity (No ambiguity)               |
 
 We can define a gauge by simply taking the gradient of an intrinsic function.
 Angular pooling and Isotropic filters are also valid but we loose some discriminative power.

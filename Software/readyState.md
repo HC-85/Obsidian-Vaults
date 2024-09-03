@@ -6,6 +6,4 @@ Describes the loading state of a document as either:
 	- load event is about to fire
 
 ###### Tags
-#Web 
-
-###### Tags
+#Tag1  #Tag5  #Tag7

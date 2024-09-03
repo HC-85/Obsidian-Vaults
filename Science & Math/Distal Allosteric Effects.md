@@ -1,0 +1,1 @@
+Structural and functional changes caused by binding events or conformational changes away from the active/primary binding site.

@@ -6,4 +6,4 @@ Queries the document [[readyState]]:
 - none: Any
 
 ###### Tags
-#Web
+#Tag7 #Tag4
